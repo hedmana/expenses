@@ -9,10 +9,10 @@ const Balance = () => {
     const amounts_moa = [];
     
     transactions.map(transaction => {
-        if (transaction.user == 'axel') {
+        if (transaction.user == 'Axel') {
             amounts_axel.push(transaction.amount);
         }
-        else if (transaction.user == 'moa') {
+        else if (transaction.user == 'Moa') {
         amounts_moa.push(transaction.amount);
         }
     });
@@ -31,6 +31,9 @@ const Balance = () => {
     } else if (to_pay > 0) {
         status_axel = "money plus";
         status_moa = "money minus";
+    } else{
+        status_axel = "money zero";
+        status_moa = "money zero";  
     }
 
     return (  

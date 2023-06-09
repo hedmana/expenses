@@ -1,5 +1,5 @@
 # Expenses
-React based web app for me and my girlfriend to keep track of shared expenses.
+React based web app for me and my girlfriend to keep track of shared our expenses. 
 
 ## Build Instructions
 In the terminal, execute the following commands:
