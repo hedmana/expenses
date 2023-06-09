@@ -78,7 +78,8 @@ label {
 }
 
 input[type='text'],
-input[type='number'] {
+input[type='number'],
+select {
   border: 1px solid #dedede;
   border-radius: 2px;
   display: block;
@@ -89,7 +90,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #1609a0;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
