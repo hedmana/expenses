@@ -8,12 +8,12 @@ const Balance = () => {
     const amounts_axel = [];
     const amounts_moa = [];
     
-    transactions.map(transaction => {
-        if (transaction.user == 'Axel') {
+    transactions.forEach(transaction => {
+        if (transaction.user === 'Axel') {
             amounts_axel.push(transaction.amount);
         }
-        else if (transaction.user == 'Moa') {
-        amounts_moa.push(transaction.amount);
+        else if (transaction.user === 'Moa') {
+            amounts_moa.push(transaction.amount);
         }
     });
 

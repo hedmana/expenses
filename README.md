@@ -11,7 +11,7 @@ React based web app for me and my girlfriend to keep track of our shared expense
 In the terminal, navigate to the project root directory and execute the following commands:
 
 ```
-npm install
+npm install 
 npm run start
 ```
 
