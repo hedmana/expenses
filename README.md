@@ -3,6 +3,10 @@ React based web app for me and my girlfriend to keep track of our shared expense
 
 ![Alt Text](gifs/expenses.gif)
 
+## Requirements
+- Node.js v20.9.0
+- npm v10.2.5
+
 ## Build Instructions (Demo)
 In the terminal, navigate to the project root directory and execute the following commands:
 
