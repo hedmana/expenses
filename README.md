@@ -3,7 +3,7 @@ React based web app for me and my girlfriend to keep track of our shared expense
 
 ![Alt Text](gifs/expenses.gif)
 
-## Requirements
+## Dependencies 
 - Node.js v20.9.0
 - npm v10.2.5
 
