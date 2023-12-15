@@ -3,8 +3,8 @@ React based web app for me and my girlfriend to keep track of our shared expense
 
 ![Alt Text](gifs/expenses.gif)
 
-## Build Instructions
-In the terminal, execute the following commands:
+## Build Instructions (Demo)
+In the terminal, navigate to the project root directory and execute the following commands:
 
 ```
 npm install
